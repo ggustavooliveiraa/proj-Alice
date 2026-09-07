@@ -26,3 +26,10 @@ O alien observa o computador e analisa o problema apresentado pelo estudante.
 ### Cena 5 – Final
 O alien explica o erro ao estudante e o professor acompanha a situação, encerrando a animação.
 
+## Planejamento da Implementação
+
+A animação será desenvolvida no Alice 3 utilizando três personagens: um estudante, um professor e um alienígena. Primeiro, o estudante irá falar sobre o problema em seu código. Em seguida, o professor irá até ele para tentar ajudá-lo. Depois, o alienígena aparecerá de forma inesperada e interagirá com os personagens.
+
+Durante a implementação, foram necessárias algumas adaptações em relação ao roteiro original, pois alguns elementos não estavam disponíveis no Alice 3. O cenário de sala de aula foi substituído por outro cenário disponível no software, e o robô do roteiro original foi substituído por um alienígena.
+
+Para realizar a animação, foram utilizados recursos de movimentação, rotação, fala e alteração de opacidade dos personagens.
